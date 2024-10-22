@@ -1,0 +1,20 @@
+# ChaCha20 Encryption and Decryption
+
+This project demonstrates the use of the ChaCha20 encryption algorithm to securely encrypt and decrypt messages using Python and the `pycryptodome` library.
+
+## Features
+
+- Encrypts a plaintext message using a specified encryption key and nonce.
+- Decrypts the encrypted message back to its original form.
+
+## Requirements
+
+- Python 3.x
+- `pycryptodome` library
+
+## Installation
+
+To install the required library, run:
+
+```bash
+pip install pycryptodome
